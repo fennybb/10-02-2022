@@ -1,0 +1,11 @@
+#positive or negative number
+a=int(input('enter number='))
+if a>0:
+print('positive number')
+else:
+print('negative number')
+
+
+
+
+
